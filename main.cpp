@@ -33,7 +33,6 @@ int main()
 
     initseed();
 
-    //freopen("output.txt","w",stdout);
     clock_t start = clock();
     vector<string> pws;
 
