@@ -46,7 +46,7 @@ int main()
 
     clock_t endt = clock();
     float seconds = (float)(endt - start) / CLOCKS_PER_SEC;
-    // Outputs the time which is needed to generate you Password
+    // Outputs the time which is needed to generate your Password
     // cout << "Time: " << seconds << "s." << endl;
     return 0;
 
